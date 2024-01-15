@@ -1,0 +1,1 @@
+# Diabetes-Prediction-Data-Analysing-with-Creating-Insights-in-MySQL
